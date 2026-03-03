@@ -1,4 +1,7 @@
 /* styles.css */
+.bg-custom-color {
+  background-color: black; 
+}
 
 h1 { 
 font-size: 150 px;
