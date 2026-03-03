@@ -1,8 +1,8 @@
 /* styles.css */
-.bg-true-black {
-  background-color: #000000;
-}
-
+<style>
+  .bg-pure-black {
+    background-color: #000000; /* Pure black hex value */
+  }
 h1 { 
 font-size: 150 px;
 color: pink;
